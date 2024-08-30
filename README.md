@@ -1,7 +1,7 @@
-# Thanaphon Kallaprapruek
+# Jukkapan Kongjun
 
 **Full Stack Developer**  
-Bangkok, Thailand | 0636749204 | [thanaphon@we-stride.com](mailto:thanaphon@we-stride.com)
+Khonkaen, Thailand | 0989497997 | [jukkapan.kn@.com](mailto:jukkapan.kn@.com)
 
 ---
 

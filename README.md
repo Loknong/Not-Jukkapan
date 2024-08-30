@@ -11,22 +11,17 @@ I am a Full Stack Developer with extensive experience in web and software develo
 
 ## Experience
 
-### Zicure Corporation - Bangkok, Thailand  
-**Senior Full Stack Developer**  
+### Rieckermann (Thailand) Co., Ltd. - Samut Prakan, Thailand  
+**Automation Engineer**  
 *Oct '21 - Present*  
 - Developed and maintained high-performance web applications using **React**, **Next.js**, **Nest.js**, **CakePHP**, **Laravel**, **Docker**, **Kubernetes**, and **PostgreSQL**.
 - Focused on improving user experience and optimizing performance.
 
-### WeStride Institute of Technology - Bangkok, Thailand  
-**Full-Stack Mentor**  
-*Jan '24 - Present*  
-- Mentored and trained junior developers in modern web technologies, such as **HTML**, **CSS**, **JavaScript**, **React**, **Express.js**, and **MySQL**.
 
 ## Education
 
-**Mahidol University**  
-*Bachelor of Arts (BA) in Religion Study*  
-*GPA: 3.01*  
+**Instrumentation Engineering**  
+*GPA: 2.77*  
 - Gained a versatile skill set applicable in various real-life situations.
 - Emphasized continuous self-assessment and adaptability.
 
@@ -43,11 +38,10 @@ I am a Full Stack Developer with extensive experience in web and software develo
 
 ## Skills
 
-- **Front-end:** HTML, CSS, Typescript, JavaScript, Bootstrap, TailwindCSS, React, Next.js  
-- **Back-end:** Express.js, Nest.js, CodeIgniter, CakePHP, Laravel  
-- **DevOps:** Docker, CI/CD, Kubernetes  
-- **Database:** SQL, PostgreSQL, MySQL  
-- **Other Tools:** Git, RESTful APIs, Linux, Cloudflare, Kafka, Elasticsearch
+- **Front-end:** HTML, CSS, Typescript, JavaScript, TailwindCSS, React  
+- **Back-end:** Express.js
+- **Database:** SQL Server, MySQL  
+- **Other Tools:** Git, RESTful APIs
 
 ---
 

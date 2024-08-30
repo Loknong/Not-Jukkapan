@@ -1,4 +1,4 @@
-# Jukkapan Kongjun
+'24# Jukkapan Kongjun
 
 **Full Stack Developer**  
 Khonkaen, Thailand | 0989497997 | [jukkapan.kn@.com](mailto:jukkapan.kn@.com)
@@ -13,7 +13,7 @@ I am a Full Stack Developer with extensive experience in web and software develo
 
 ### Rieckermann (Thailand) Co., Ltd. - Samut Prakan, Thailand  
 **Automation Engineer**  
-*Oct '21 - Present*  
+*Aug '19 - Feb '24*  
 - Developed and maintained high-performance web applications using **React**, **Next.js**, **Nest.js**, **CakePHP**, **Laravel**, **Docker**, **Kubernetes**, and **PostgreSQL**.
 - Focused on improving user experience and optimizing performance.
 

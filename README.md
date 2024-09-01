@@ -91,7 +91,7 @@ Explore these and more projects on my [GitHub](https://github.com/yourusername).
 ## Skills & Expertise
 
 ### Web Development
-- **Languages & Frameworks:** TypeScript, JavaScript, HTML, CSS, React, Node.js, Express.js
+- **Languages & Frameworks:** TypeScript, JavaScript, HTML, CSS, React, Vuejs, Node.js, Express.js
 - **Styling:** Tailwind CSS, Responsive Design
 - **Database Management:** MySQL, SQL Server
 - **Tools & Platforms:** Git, Docker (Basic), Postman, Vite
@@ -99,7 +99,7 @@ Explore these and more projects on my [GitHub](https://github.com/yourusername).
 - **API Development:** RESTful APIs
 
 ### Automation Engineering
-- **Programming:** Siemens PLC Programming, Scripting Languages (Pascal, Delphi)
+- **Programming:** PLC Programming IEC 61131-3
 - **System Integration:** Industrial Communication Protocols, IoT
 - **Control Systems:** HMI/SCADA (WinCC, Wonderware)
 - **Technical Expertise:** Electrical Schematic Reading, Siemens Sinamics Inverter Systems

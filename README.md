@@ -84,7 +84,7 @@ This project involved adapting legacy code and ensuring smooth integration with 
 - **Ajinomoto Vibration**
 - **Betain CPF**
 
-Explore these and more projects on my [GitHub](https://github.com/yourusername).
+Explore these and more projects on my [GitHub]([https://github.com/yourusername](https://github.com/Not-Jukkapan?tab=repositories)).
 
 ---
 

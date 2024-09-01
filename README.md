@@ -33,9 +33,7 @@ I’m a Fullstack Developer with a background in Automation Engineering, current
 **King Mongkut's Institute of Technology Ladkrabang (KMITL)**, Bangkok, Thailand  
 **Bachelor of Engineering in Instrumentation Engineering** | *GPA: 2.77*  
 - **Relevant Coursework:** Control Systems, Process Automation, Electrical Circuit Analysis, Instrumentation Design
-- **Extracurricular Activities:** Member of the Robotics Club, Competed in national Automation Competitions
-- **Capstone Project:** Developed and implemented an automated control system using Siemens PLCs, optimizing process efficiency in a simulated industrial environment
-
+- **Capstone Project:** Developed a web server on Siemens PLC S7-1200 using HTML and JavaScript for real-time control and monitoring, integrating it with Factory IO for simulation.
 ---
 
 ## Featured Projects

@@ -83,6 +83,8 @@ This project involved adapting legacy code and ensuring smooth integration with 
 - **Gislotica Spray Robot – Continental:** Helped develop and integrate robotic spray systems, focusing on precision and efficiency.
 - **Motor Test Stand AMR-BTS:** Worked on designing and implementing a motor testing system with real-time data monitoring and analysis.
 - **3K Battery:** Assisted in automating a production line, aiming to optimize performance and reduce downtime.
+- **Ajinomoto Vibration**
+- **Betain CPF**
 
 Explore these and more projects on my [GitHub](https://github.com/yourusername).
 

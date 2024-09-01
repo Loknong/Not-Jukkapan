@@ -21,18 +21,20 @@ I’m a Fullstack Developer with a background in Automation Engineering, current
 ### Rieckermann (Thailand) Co., Ltd. - Samut Prakan, Thailand  
 **Automation Engineer**  
 *Aug '19 - Feb '24*  
-- Worked on developing and maintaining web applications using **React**, **Next.js**, **Nest.js**, **CakePHP**, **Laravel**, **Docker**, **Kubernetes**, and **PostgreSQL**.
-- Focused on enhancing user experience and optimizing performance wherever possible.
-- Integrated IoT solutions for monitoring data and generating reports for users, including a project for RedBull in Chachoengsao, Thailand.
+- Led the design and implementation of automation projects, delivering tailored solutions that enhanced operational efficiency and productivity for diverse industrial applications.
+- Provided comprehensive services and maintenance for automation machines, ensuring optimal performance and minimizing downtime.
+- Collaborated with cross-functional teams to assess client needs and deliver effective automation solutions, resulting in improved customer satisfaction.
+- Offered technical support and expertise during the sales process, contributing to successful project proposals and presentations.
 
 ---
 
 ## Education
 
-**Instrumentation Engineering**  
-*GPA: 2.77*  
-- Built a versatile skill set that I continue to apply in various real-world situations.
-- Emphasized continuous self-improvement and adaptability throughout my studies.
+**King Mongkut's Institute of Technology Ladkrabang (KMITL)**, Bangkok, Thailand  
+**Bachelor of Engineering in Instrumentation Engineering** | *GPA: 2.77*  
+- **Relevant Coursework:** Control Systems, Process Automation, Electrical Circuit Analysis, Instrumentation Design
+- **Extracurricular Activities:** Member of the Robotics Club, Competed in national Automation Competitions
+- **Capstone Project:** Developed and implemented an automated control system using Siemens PLCs, optimizing process efficiency in a simulated industrial environment
 
 ---
 
@@ -97,7 +99,7 @@ Explore these and more projects on my [GitHub](https://github.com/yourusername).
 - **API Development:** RESTful APIs
 
 ### Automation Engineering
-- **Programming:** PLC Programming (Siemens), Scripting Languages (Pascal, Delphi)
+- **Programming:** Siemens PLC Programming, Scripting Languages (Pascal, Delphi)
 - **System Integration:** Industrial Communication Protocols, IoT
 - **Control Systems:** HMI/SCADA (WinCC, Wonderware)
 - **Technical Expertise:** Electrical Schematic Reading, Siemens Sinamics Inverter Systems
@@ -107,4 +109,3 @@ Explore these and more projects on my [GitHub](https://github.com/yourusername).
 
 I’m always open to learning new things and improving my skills. If you’re interested in working together or just want to chat about technology, feel free to reach out or check out my work through the links above.
 
----

@@ -64,7 +64,7 @@ An IoT-based monitoring system developed for RedBull in Chachoengsao, Thailand. 
 **Description:**
 This project was a valuable experience that allowed me to combine my automation background with my growing web development skills.
 
-### [Legacy System Migration – Dosa System](https://github.com/yourusername/legacy-system-migration)
+### [Dosa System – Legacy System Migration](https://github.com/yourusername/legacy-system-migration)
 Led the migration of a critical batch control system from Windows XP to Windows 11 within a pharmaceutical environment.
 
 **Tech Stack:**

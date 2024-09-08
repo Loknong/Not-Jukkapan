@@ -7,12 +7,12 @@ Khonkaen, Thailand | 0989497997 | [jukkapan.kn@.com](mailto:jukkapan.kn@.com)
 
 ## About Me
 
-I’m a Fullstack Developer with a background in Automation Engineering, currently based in Thailand. My journey from industrial automation to web development has been filled with learning and growth, and I’m passionate about applying my skills to build user-centric applications. I’m always eager to collaborate with others and contribute to meaningful projects.
+I’m transitioning into the field of **Full Stack Development** after working at a mid-level capacity in **Automation Engineering**. While my experience in industrial automation may differ from web development, it has given me valuable skills in problem-solving, logical thinking, and system integration that I’m now applying to programming and software development. I’m passionate about learning new technologies and am actively seeking opportunities to start my career as a **Frontend** or **Full Stack Developer**, where I can continue to grow and contribute meaningfully.
 
-- **🔭 Currently exploring:** Advanced concepts in **React**, **Node.js**, and **TypeScript**.
-- **🌱 Continuously learning:** New trends and technologies to improve my craft in web development.
-- **💼 Open to opportunities:** I’m seeking roles where I can learn, grow, and contribute to the team’s success.
-- **💬 Let’s connect:** I’d love to discuss technology, share ideas, or work together on interesting projects.
+- **🔭 Exploring:** Advanced concepts in **React**, **Node.js**, and **TypeScript** as I build my web development skill set.
+- **🌱 Continuously learning:** Web development best practices, modern frameworks, and how to design scalable systems.
+- **💼 Open to opportunities:** Looking for my first developer role to leverage my technical skills and passion for programming.
+- **💬 Let’s connect:** Always open to learning from others, collaborating, and discussing technology trends.
 
 ---
 

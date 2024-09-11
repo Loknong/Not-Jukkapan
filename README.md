@@ -38,7 +38,7 @@ I’m transitioning into the field of **Full Stack Development** after working a
 
 ## Featured Projects
 
-### [TURNiX – Book Exchange Platform](https://github.com/yourusername/turnix)
+### [TURNiX – Book Exchange Platform](https://github.com/Not-Jukkapan/book-exchange)
 A platform for book enthusiasts to list, search, and trade books. TURNiX includes transaction workflows, user notifications, and an intuitive interface, built with scalability in mind.
 
 **Tech Stack:**
@@ -50,17 +50,30 @@ A platform for book enthusiasts to list, search, and trade books. TURNiX include
 **Description:**
 This project helped me understand the complexities of web development and the importance of creating seamless user experiences.
 
+### [Betain CPF](https://github.com/yourusername/turnix) 
+A system for real-time logging and monitoring of fluid values when valves are active. Includes historian features, alarms, and daily report generation with custom email notifications.
+
+**Tech Stack:**
+- **Frontend:** Vue, Quasar
+- **Backend:** Node.js, Express.js
+- **Database:** SQL Server
+- **State Management:** Pinia
+  
+**Description:**
+This project marked my first time building a full-stack application with Node.js, transitioning from Node-RED with UIBuilder. It also introduced me to email services and cron jobs for automated reporting.
+
 ### [RedBull IoT – Data Monitoring and Reporting System](https://github.com/yourusername/redbull-iot)
 An IoT-based monitoring system developed for RedBull in Chachoengsao, Thailand. The system captures and analyzes real-time data, generating user-specific reports.
 
 **Tech Stack:**
 - **IoT Integration:** Siemens PLCs
-- **Backend:** Node.js, Express.js
+- **Frontend:** Node-red UIBuilder - Vue2
+- **Backend:** Node-Red
 - **Database:** SQL Server
-- **Reporting:** Custom reporting tools built with HTML, CSS
 
 **Description:**
 This project was a valuable experience that allowed me to combine my automation background with my growing web development skills.
+
 
 ### [Dosa System – Legacy System Migration](https://github.com/yourusername/legacy-system-migration)
 Led the migration of a critical batch control system from Windows XP to Windows 11 within a pharmaceutical environment.
@@ -82,7 +95,6 @@ This project involved adapting legacy code and ensuring smooth integration with 
 - **Motor Test Stand AMR-BTS:** Worked on designing and implementing a motor testing system with real-time data monitoring and analysis.
 - **3K Battery:** Assisted in automating a production line, aiming to optimize performance and reduce downtime.
 - **Ajinomoto Vibration**
-- **Betain CPF**
 
 Explore these and more projects on my [GitHub](https://github.com/Not-Jukkapan?tab=repositories).
 

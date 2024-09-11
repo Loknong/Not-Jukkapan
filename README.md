@@ -7,7 +7,7 @@ Khonkaen, Thailand | 0989497997 | [jukkapan.kn@.com](mailto:jukkapan.kn@.com)
 
 ## About Me
 
-I’m transitioning into the field of **Full Stack Development** after working at a mid-level capacity in **Automation Engineering**. While my experience in industrial automation may differ from web development, it has given me valuable skills in problem-solving, logical thinking, and system integration that I’m now applying to programming and software development. I’m passionate about learning new technologies and am actively seeking opportunities to start my career as a **Frontend** or **Full Stack Developer**, where I can continue to grow and contribute meaningfully.
+I am a mid-level **Automation Engineer** with a strong interest in **web development**. Over the years, while working in the automation field, I found myself increasingly drawn to programming, especially when working on web-related projects. I enjoy the challenge of learning new technologies and aspire to transition into web development, where I can apply my skills in **problem-solving** and **logical thinking** to build scalable applications. Though I am not yet a professional in web development, I am committed to improving my skills and making this career shift.
 
 - **🔭 Exploring:** Advanced concepts in **React**, **Node.js**, and **TypeScript** as I build my web development skill set.
 - **🌱 Continuously learning:** Web development best practices, modern frameworks, and how to design scalable systems.

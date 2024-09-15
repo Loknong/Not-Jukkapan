@@ -1,3 +1,7 @@
+Here’s an updated version of your GitHub profile bio that aligns with your current journey and focus:
+
+---
+
 # Jukkapan Kongjun
 
 **Full Stack Developer**  
@@ -7,12 +11,12 @@ Khonkaen, Thailand | 0989497997 | [jukkapan.kn@.com](mailto:jukkapan.kn@gmail.co
 
 ## About Me
 
-I am a mid-level **Automation Engineer** with a strong interest in **web development**. Over the years, while working in the automation field, I found myself increasingly drawn to programming, especially when working on web-related projects. I enjoy the challenge of learning new technologies and aspire to transition into web development, where I can apply my skills in **problem-solving** and **logical thinking** to build scalable applications. Though I am not yet a professional in web development, I am committed to improving my skills and making this career shift.
+I am a passionate **Full Stack Developer** with a background in **Automation Engineering**, leveraging a combination of problem-solving, logical thinking, and technical expertise to build scalable web applications. After years of working in automation, I transitioned into web development, exploring modern technologies to create dynamic and efficient solutions. My journey has taught me the importance of adaptability, and I'm committed to continual growth in the field of software development.
 
-- **🔭 Exploring:** Advanced concepts in **React**, **Node.js**, and **TypeScript** as I build my web development skill set.
-- **🌱 Continuously learning:** Web development best practices, modern frameworks, and how to design scalable systems.
-- **💼 Open to opportunities:** Looking for my first developer role to leverage my technical skills and passion for programming.
-- **💬 Let’s connect:** Always open to learning from others, collaborating, and discussing technology trends.
+- **🔭 Exploring:** Advanced concepts in **React**, **Node.js**, **TypeScript**, and backend development.
+- **🌱 Continuously learning:** Scalable architecture design, modern frontend frameworks, and robust backend solutions.
+- **💼 Seeking opportunities:** Looking for roles where I can apply my full stack skills and contribute to impactful projects.
+- **💬 Let’s connect:** Open to collaborations, tech discussions, and learning from others in the field.
 
 ---
 
@@ -21,10 +25,10 @@ I am a mid-level **Automation Engineer** with a strong interest in **web develop
 ### Rieckermann (Thailand) Co., Ltd. - Samut Prakan, Thailand  
 **Automation Engineer**  
 *Aug '19 - Feb '24*  
-- Led the design and implementation of automation projects, delivering tailored solutions that enhanced operational efficiency and productivity for diverse industrial applications.
-- Provided comprehensive services and maintenance for automation machines, ensuring optimal performance and minimizing downtime.
-- Collaborated with cross-functional teams to assess client needs and deliver effective automation solutions, resulting in improved customer satisfaction.
-- Offered technical support and expertise during the sales process, contributing to successful project proposals and presentations.
+- Led automation projects that improved operational efficiency for various industrial clients, utilizing skills in PLC programming and system integration.
+- Collaborated with cross-functional teams to assess requirements and deliver tailored solutions.
+- Supported automation machines, ensuring optimal performance and troubleshooting.
+- Transitioned into web development, bringing automation principles to web-based projects and IoT systems.
 
 ---
 
@@ -33,13 +37,14 @@ I am a mid-level **Automation Engineer** with a strong interest in **web develop
 **King Mongkut's Institute of Technology Ladkrabang (KMITL)**, Bangkok, Thailand  
 **Bachelor of Engineering in Instrumentation Engineering** | *GPA: 2.77*  
 - **Relevant Coursework:** Control Systems, Process Automation, Electrical Circuit Analysis, Instrumentation Design
-- **Capstone Project:** Developed a web server on Siemens PLC S7-1200 using HTML and JavaScript for real-time control and monitoring, integrating it with Factory IO for simulation.
+- **Capstone Project:** Built a web server using Siemens PLC S7-1200, integrating HTML and JavaScript for real-time control and monitoring.
+
 ---
 
 ## Featured Projects
 
 ### [TURNiX – Book Exchange Platform](https://github.com/Not-Jukkapan/book-exchange)
-A platform for book enthusiasts to list, search, and trade books. TURNiX includes transaction workflows, user notifications, and an intuitive interface, built with scalability in mind.
+A platform enabling users to explore, list, and exchange books with an intuitive user interface and scalable transaction workflows.
 
 **Tech Stack:**
 - **Frontend:** React, Tailwind CSS
@@ -48,76 +53,68 @@ A platform for book enthusiasts to list, search, and trade books. TURNiX include
 - **State Management:** Zustand
 
 **Description:**
-This project helped me understand the complexities of web development and the importance of creating seamless user experiences.
-
-### [Betain CPF](https://github.com/yourusername/turnix) 
-A system for real-time logging and monitoring of fluid values when valves are active. Includes historian features, alarms, and daily report generation with custom email notifications.
-
-**Tech Stack:**
-- **Frontend:** Vue, Quasar
-- **Backend:** Node.js, Express.js
-- **Database:** SQL Server
-- **State Management:** Pinia
-  
-**Description:**
-This project marked my first time building a full-stack application with Node.js, transitioning from Node-RED with UIBuilder. It also introduced me to email services and cron jobs for automated reporting.
-
-### [RedBull IoT – Data Monitoring and Reporting System](https://github.com/yourusername/redbull-iot)
-An IoT-based monitoring system developed for RedBull in Chachoengsao, Thailand. The system captures and analyzes real-time data, generating user-specific reports.
-
-**Tech Stack:**
-- **IoT Integration:** Siemens PLCs
-- **Frontend:** Node-red UIBuilder - Vue2
-- **Backend:** Node-Red
-- **Database:** SQL Server
-
-**Description:**
-This project was a valuable experience that allowed me to combine my automation background with my growing web development skills.
-
-
-### [Dosa System – Legacy System Migration](https://github.com/yourusername/legacy-system-migration)
-Led the migration of a critical batch control system from Windows XP to Windows 11 within a pharmaceutical environment.
-
-**Tech Stack:**
-- **Legacy Code:** Pascal, Delphi
-- **Database:** SQL Server
-- **Automation:** Siemens PLCs
-
-**Description:**
-This project involved adapting legacy code and ensuring smooth integration with existing systems, presenting both challenges and rewards.
+Turnix helped refine my full stack development skills, from designing REST APIs to managing state with Zustand.
 
 ---
 
-## Other Projects
+### [Betain CPF – Real-Time Fluid Monitoring](https://github.com/yourusername/betain-cpf)
+Built a real-time monitoring system for fluid values during valve activation, featuring historian trends, alerts, and automated reporting.
 
-### [Additional Projects](https://github.com/yourusername/other-projects)
-- **Gislotica Spray Robot – Continental:** Helped develop and integrate robotic spray systems, focusing on precision and efficiency.
-- **Motor Test Stand AMR-BTS:** Worked on designing and implementing a motor testing system with real-time data monitoring and analysis.
-- **3K Battery:** Assisted in automating a production line, aiming to optimize performance and reduce downtime.
-- **Ajinomoto Vibration**
+**Tech Stack:**
+- **Frontend:** Vue 3, Quasar
+- **Backend:** Node.js, Express.js
+- **Database:** MSSQL
 
-Explore these and more projects on my [GitHub](https://github.com/Not-Jukkapan?tab=repositories).
+**Description:**
+This project challenged me to move from using low-code tools to building a full stack application, with complex backend logic and database integration.
+
+---
+
+### [RedBull IoT Monitoring System](https://github.com/yourusername/redbull-iot)
+Developed a real-time data monitoring and control system for production equipment at RedBull’s factory.
+
+**Tech Stack:**
+- **Frontend:** Vue2, SVG integration
+- **Backend:** Node-RED
+- **Database:** SQL Server
+
+**Description:**
+This project allowed me to combine my automation expertise with web technologies, building a seamless SCADA-like interface.
+
+---
+
+### [Betterpharma Dosa – System Migration](https://github.com/yourusername/dosa-system)
+Led the migration of a batch control system from Windows XP to Windows 11, modernizing SCADA and automation software.
+
+**Tech Stack:**
+- **Legacy Code:** Delphi, Pascal
+- **Database:** SQL Server
+- **Automation:** Siemens PLCs, Wonderware
+
+**Description:**
+Migrating legacy systems taught me how to adapt and modernize complex infrastructure without interrupting production.
 
 ---
 
 ## Skills & Expertise
 
 ### Web Development
-- **Languages & Frameworks:** TypeScript, JavaScript, HTML, CSS, React, Vuejs, Node.js, Express.js
+- **Languages & Frameworks:** TypeScript, JavaScript, React, Vue.js, Node.js, Express.js, HTML, CSS
 - **Styling:** Tailwind CSS, Responsive Design
-- **Database Management:** MySQL, SQL Server
-- **Tools & Platforms:** Git, Docker (Basic), Postman, Vite
-- **State Management:** Zustand
+- **Database Management:** MySQL, SQL Server, PostgreSQL
+- **Tools & Platforms:** Git, Docker (Basic), Postman, Prisma, Vite
+- **State Management:** Zustand, Pinia
 - **API Development:** RESTful APIs
 
 ### Automation Engineering
-- **Programming:** PLC Programming IEC 61131-3
-- **System Integration:** Industrial Communication Protocols, IoT
-- **Control Systems:** HMI/SCADA (WinCC, Wonderware)
-- **Technical Expertise:** Electrical Schematic Reading, Siemens Sinamics Inverter Systems
-- **Project Management:** System Migration, Troubleshooting, Real-time Data Integration
+- **Programming:** PLC Programming (Siemens S7-1500, 1200)
+- **System Integration:** Industrial Communication, IoT
+- **Control Systems:** HMI/SCADA (Wonderware, WinCC)
+- **Technical Expertise:** Electrical Schematics, Siemens Sinamics Inverter Systems
+- **Project Management:** System Migrations, Real-time Data Integration
 
 ---
 
-I’m always open to learning new things and improving my skills. If you’re interested in working together or just want to chat about technology, feel free to reach out or check out my work through the links above.
+I'm always excited to learn more and take on new challenges. If you're interested in discussing technology, collaborating on a project, or exploring job opportunities, feel free to connect or check out my work on [GitHub](https://github.com/Not-Jukkapan).
 
+---

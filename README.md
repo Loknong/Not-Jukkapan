@@ -1,7 +1,3 @@
-Here’s an updated version of your GitHub profile bio that aligns with your current journey and focus:
-
----
-
 # Jukkapan Kongjun
 
 **Full Stack Developer**  

@@ -110,7 +110,3 @@ Migrating legacy systems taught me how to adapt and modernize complex infrastruc
 - **Project Management:** System Migrations, Real-time Data Integration
 
 ---
-
-I'm always excited to learn more and take on new challenges. If you're interested in discussing technology, collaborating on a project, or exploring job opportunities, feel free to connect or check out my work on [GitHub](https://github.com/Not-Jukkapan).
-
----

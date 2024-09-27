@@ -11,7 +11,6 @@ I am a passionate **Full Stack Developer** with a background in **Automation Eng
 
 - **🔭 Exploring:** Advanced concepts in **React**, **Node.js**, **TypeScript**, and backend development.
 - **🌱 Continuously learning:** Scalable architecture design, modern frontend frameworks, and robust backend solutions.
-- **💼 Seeking opportunities:** Looking for roles where I can apply my full stack skills and contribute to impactful projects.
 - **💬 Let’s connect:** Open to collaborations, tech discussions, and learning from others in the field.
 
 ---
@@ -31,7 +30,7 @@ I am a passionate **Full Stack Developer** with a background in **Automation Eng
 ## Education
 
 **King Mongkut's Institute of Technology Ladkrabang (KMITL)**, Bangkok, Thailand  
-**Bachelor of Engineering in Instrumentation Engineering** | *GPA: 2.77*  
+**Bachelor of Engineering in Instrumentation Engineering** | *GPA: 2.76*  
 - **Relevant Coursework:** Control Systems, Process Automation, Electrical Circuit Analysis, Instrumentation Design
 - **Capstone Project:** Built a web server using Siemens PLC S7-1200, integrating HTML and JavaScript for real-time control and monitoring.
 
@@ -95,10 +94,10 @@ Migrating legacy systems taught me how to adapt and modernize complex infrastruc
 ## Skills & Expertise
 
 ### Web Development
-- **Languages & Frameworks:** TypeScript, JavaScript, React, Vue.js, Node.js, Express.js, HTML, CSS
+- **Languages & Frameworks:** TypeScript, JavaScript, React, Next, Vue.js, Node.js, Express.js, HTML, CSS, C#
 - **Styling:** Tailwind CSS, Responsive Design
 - **Database Management:** MySQL, SQL Server, PostgreSQL
-- **Tools & Platforms:** Git, Docker (Basic), Postman, Prisma, Vite
+- **Tools & Platforms:** Git, Docker, Postman, Prisma, Vite
 - **State Management:** Zustand, Pinia
 - **API Development:** RESTful APIs
 

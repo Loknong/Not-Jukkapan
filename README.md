@@ -7,7 +7,7 @@ Khonkaen, Thailand | 0989497997 | [jukkapan.kn@.com](mailto:jukkapan.kn@gmail.co
 
 ## About Me
 
-I am a passionate **Full Stack Developer** with a background in **Automation Engineering**, leveraging a combination of problem-solving, logical thinking, and technical expertise to build scalable web applications. After years of working in automation, I transitioned into web development, exploring modern technologies to create dynamic and efficient solutions. My journey has taught me the importance of adaptability, and I'm committed to continual growth in the field of software development.
+I am a Full-Stack Developer with a strong background in IIoT and industrial automation. I specialize in creating real-time monitoring systems and full-stack applications, seamlessly integrating hardware and software. Passionate about combining software development and automation engineering, I aim to design innovative solutions that enhance efficiency, productivity, and user satisfaction.
 
 - **🔭 Exploring:** Advanced concepts in **React**, **Node.js**, **TypeScript**, and backend development.
 - **🌱 Continuously learning:** Scalable architecture design, modern frontend frameworks, and robust backend solutions.
